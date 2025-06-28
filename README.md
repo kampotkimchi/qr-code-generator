@@ -1,4 +1,8 @@
 # qr-code-generator
+
+You can use this QR Code Generator at: 
+http://www.kampotkimchi.com/qr-code-generator/
+
 URL to QR Code Generator
 A simple, fast, and modern web application that generates QR codes from any URL. This project is built with plain HTML, Tailwind CSS for styling, and QRCode.js for the core functionality.
 
@@ -31,4 +35,4 @@ Contributions are welcome! If you have ideas for improvements or want to fix a b
 6. Open a Pull Request.
 
 📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details (you can create a file named LICENSE in your repository and add the standard MIT License text).
+This project is licensed under the MIT License. See the LICENSE file for more details
